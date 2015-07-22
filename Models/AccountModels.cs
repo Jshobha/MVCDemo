@@ -9,8 +9,12 @@ using System.Web.Security;
 namespace MvcDemo.Models
 {
     //Tested from local
+<<<<<<< Updated upstream
     //Tested from local
     //Tested from local
+=======
+  //Tested
+>>>>>>> Stashed changes
     public class UsersContext : DbContext
     {
         public UsersContext()
